@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb64ee3fc6005d94b8f59fbd63034b69
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeskPrefab: {fileID: 6525856855524647381, guid: b256b8e424fc94941b02db4ddd81eac6, type: 3}
+  - ChairPrefab: {fileID: 704530872667757221, guid: 3554bc5d93ef82944bf37aa3549b94aa, type: 3}
+  - StudentsPrefab: {fileID: 2874707383095091980, guid: aee38cc7b1cb99a468110b0d9cd5bc87, type: 3}
+  - gridParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
